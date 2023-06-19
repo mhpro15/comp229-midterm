@@ -1,3 +1,12 @@
+/*
+  COMP 229 MIDTERM
+  HUNG NGUYEN
+  301294266
+  June 19 2023
+  index.js
+*/
+
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

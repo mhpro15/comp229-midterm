@@ -1,3 +1,11 @@
+/*
+  COMP 229 MIDTERM
+  HUNG NGUYEN
+  301294266
+  June 19 2023
+  books.js
+*/
+
 let mongoose = require('mongoose');
 
 // create a model class

@@ -1,3 +1,12 @@
+/*
+  COMP 229 MIDTERM
+  HUNG NGUYEN
+  301294266
+  June 19 2023
+  server.js
+*/
+
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');

@@ -1,3 +1,11 @@
+/*
+  COMP 229 MIDTERM
+  HUNG NGUYEN
+  301294266
+  June 19 2023
+  app.js
+*/
+
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
